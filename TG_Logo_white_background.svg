@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="210mm" height="210mm" version="1.1" viewBox="0 0 210 210" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient870">
+   <stop stop-color="#f0c" offset="0"/>
+   <stop stop-color="#339" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient872" x1="21.748" x2="190.11" y1="64.893" y2="141.37" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient870"/>
+  <linearGradient id="linearGradient29" x1="21.748" x2="190.11" y1="64.893" y2="141.37" gradientTransform="scale(3.7795)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient870"/>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <rect width="210" height="210" fill="#fff" stroke-width="1.3"/>
+ <g aria-label="GB.">
+  <path transform="scale(.26458)" d="m225.22 246.76c-96.136 0-146.39 67.296-146.39 148.57 0 81.716 50.69 144.2 130.22 144.2 36.706 0 63.798-13.546 81.277-34.084l5.6816 29.715h45.445v-103.88h-0.13477v-53h-114.35v49.379h55.496v1.748c0 37.143-24.471 58.555-62.926 58.555-45.883 0-77.781-30.588-77.781-93.514 0-65.11 34.085-96.135 80.842-96.135 19.227 0 45.445 5.2424 60.303 15.293l7.8652 33.211 47.195-4.3691-7.8672-61.615c-18.79-18.79-58.992-34.084-104.88-34.084z" fill="url(#linearGradient29)" stroke-width="10.924"/>
+  <path d="m165.92 119.28c0-10.059-5.5497-17.458-16.302-19.077v-0.46247c8.6714-1.3874 13.643-7.862 13.643-15.724 0-10.637-9.1338-17.574-22.892-17.574h-39.079v13.18h8.0933v48.791h-8.0933v13.18h39.541c17.227 0 25.089-10.29 25.089-22.314zm-19.308-31.217c0 5.0872-2.6592 9.1338-11.446 9.1338h-10.29v-17.574h11.446c5.5497 0 10.29 1.6187 10.29 8.4401zm2.6592 30.639c0 6.4746-3.931 9.7119-12.487 9.7119h-11.909v-19.193h12.949c7.1683 0 11.446 2.7748 11.446 9.4807z" fill="url(#linearGradient872)" stroke-width="2.8904"/>
+  <path d="m172.87 141.6h17.69v-18.846h-17.69z" fill="url(#linearGradient872)" stroke-width="2.8904"/>
+ </g>
+</svg>
